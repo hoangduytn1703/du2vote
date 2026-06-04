@@ -32,5 +32,5 @@ export default defineConfig({
       VUE_APP_LINKPREVIEW_KEY: process.env.VUE_APP_LINKPREVIEW_KEY
     }
   },
-  base: '/snack_survey/'
+//  base: '/snack_survey/'
 })
